@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel Mariano</h1>
 <h3 align="center">A passionate web2 and web3 developer from the Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karatechap&label=Profile%20views&color=0e75b6&style=flat" alt="karatechap" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karatechap" alt="karatechap" /></a> </p>
-
 - 🔭 I’m currently working on **freelance web2 and web3 development**
 
 - 🌱 I’m currently learning **Next Js and Solidity**
