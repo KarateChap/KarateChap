@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel Mariano</h1>
 <h3 align="center">A passionate web2 and web3 developer from the Philippines</h3>
-<div style="display: flex; justify-content: center; align-items: center; width: 100%;"><img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"></div>
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; background-color: red;"><img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"></div>
 
 - 🔭 I’m currently working on **freelance web2 and web3 development**
 
