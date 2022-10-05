@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **opensource project that will help the lives of the people**
 
-- 👨‍💻 All of my projects are available at [gab-dev.vercel.app](gab-dev.vercel.app)
+- 👨‍💻 All of my projects are available at [gab-dev.vercel.app](https://gab-dev.vercel.app/)
 
 - 💬 Ask me about **Blockchain Technology**
 
