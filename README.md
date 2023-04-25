@@ -10,7 +10,4 @@
 
 - 👯 I’m looking to collaborate on **opensource project that will help the lives of the people**
 
-- 💬 Ask me about **Blockchain Technology**
-
-- ⚡ Fun fact **I love coffee in the morning**
 
