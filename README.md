@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on **freelance web2 and web3 development**
 
-- 🌱 I’m currently learning **Next Js and Solidity**
-
-- 👯 I’m looking to collaborate on **opensource project that will help the lives of the people**
+- 🌱 I’m currently learning **Next Js**
 
 
