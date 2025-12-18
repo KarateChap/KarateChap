@@ -117,42 +117,8 @@ const gab = {
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KarateChap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=KarateChap&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarateChap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
 </p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarateChap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KarateChap&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarateChap&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph"/>
-</p>
-
----
-
-<div align="center">
-
-## 🐍 Watch My Contributions Get Eaten
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KarateChap/KarateChap/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KarateChap/KarateChap/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KarateChap/KarateChap/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
 
 ---
 
