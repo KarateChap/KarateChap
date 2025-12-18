@@ -2,7 +2,7 @@
   
 # Hey, I'm Gab 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Developer;Web+%26+Mobile+App+Architect;Blockchain+Developer;Building+Enterprise+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+%26+Mobile+App+Architect;Blockchain+Developer;Building+Enterprise+Solutions)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -20,7 +20,7 @@
 
 ```typescript
 const gab = {
-    role: "Senior Full Stack Developer",
+    role: "Full Stack Developer",
     focus: ["Enterprise Web Apps", "Mobile Development", "Blockchain Solutions"],
     currentlyBuilding: "Scalable cross-platform applications",
     askMeAbout: ["React", "React Native", ".NET", "Spring Boot", "Web3", "System Architecture"],
