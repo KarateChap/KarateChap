@@ -46,13 +46,4 @@ Git · Azure DevOps · Bitbucket · Jira · SAP · ERP systems
 
 ---
 
-## GitHub
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KarateChap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarateChap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
-</p>
-
----
-
 If you're working on something interesting or need a hand on a project, feel free to reach out.
